@@ -1,3 +1,3 @@
 # Hello Group 1
-# Earth Varis
+# Varis
 # test

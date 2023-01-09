@@ -1,2 +1,2 @@
-#This is the tenth time i have tried
-#Anawil Yuktanand
+# Hello Group 1
+# Poovares kongkarchui 202308
